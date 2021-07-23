@@ -47,7 +47,7 @@ namespace Custom_Suppliies_mail_order
         {
             label2.Show();
             label3.Show();
-            label5.Text = "Michelle Rigner";
+            label5.Text = "Michelle jackson";
             label5.Refresh();
             label4.Text = "500-2222";
             label4.Refresh();
@@ -57,7 +57,7 @@ namespace Custom_Suppliies_mail_order
         {
             label2.Show();
             label3.Show();
-            label5.Text = "Kenna Devoss";
+            label5.Text = "Kenna lvois";
             label5.Refresh();
             label4.Text = "500-3333";
             label4.Refresh();
@@ -67,9 +67,9 @@ namespace Custom_Suppliies_mail_order
         {
             label2.Show();
             label3.Show();
-            label5.Text = "Eric Andrews";
+            label5.Text = "hennry Andrews";
             label5.Refresh();
-            label4.Text = "500-4444";
+            label4.Text = "500-77777";
             label4.Refresh();
         }
 
